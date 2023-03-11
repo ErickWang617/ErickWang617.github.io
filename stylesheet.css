@@ -1,0 +1,90 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #000000;
+	text-align: center;}
+
+h1 {
+	background-color: #efefef;
+	display: inline-block;
+	padding: 10px;
+}
+
+nav {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;}
+
+dt {
+    font-weight: bold;
+    text-align: left;
+}
+
+dl,
+dd {
+    font-size: 0.9rem;
+    text-align: left;
+}
+
+dd {
+    margin-bottom: 1em;
+}
+
+
+.navigation li {
+	display: inline;
+	padding: 5px;}
+
+.steps li{
+	padding: 3px;
+	font-size: 14px;
+	text-align: left;
+}
+
+.imageArticle {
+  	align-items: center;
+  	width: 500px;
+  	padding: 10px;
+}
+
+.ingredients li{
+	display: block;
+	padding: 3px;
+	font-size: 14px;
+	text-align: left;
+}
+
+
+.mexican{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 275px;
+	float: left;
+}
+
+p {
+	font-family: Georgia, serif;
+	text-align: left;
+	}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #FFAA8F;}
+
+article {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 380px;
+	float: left;
+}
+
+.americanFood {
+	background-color: #ff8726;}
+
+#content {
+	overflow: auto;
+	height: 100%;}
